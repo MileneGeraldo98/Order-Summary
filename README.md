@@ -2,6 +2,13 @@
 
 Este é um projeto de desenvolvimento de um componente de resumo de pedido (*Order Summary*), focado em aplicar boas práticas de design responsivo e estruturação semântica em desenvolvimento web.
 
+
+## 🚀 Demonstração
+
+- **Resultado final:**
+
+![Screenshot do Projeto](./Images/Print-projeto.png) 
+
 🚀 https://milenegeraldo98.github.io/Order-Summary/
 
 ---
